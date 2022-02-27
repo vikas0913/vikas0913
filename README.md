@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @vikas-deshpande
-- 👀 I’m interested in coding, system design, leadership.
-- 💞️ I’m looking to collaborate on practice questions and coding, competitive coding.
+- 👀 My tech interests include coding, system design, leadership.
+- My non-tech interests include cooking, travelling. Loving my new fatherhood phase.
 
 <!---
 vikas-deshpande/vikas-deshpande is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
