@@ -1,3 +1,7 @@
+<!-- <p align="left"><img align="center" alt="visitors" src="https://visitor-badge.glitch.me/badge?page_id=vikas-deshpande.vikas-deshpande.github.io/README.md"/></p> -->
+
+![visitors](https://visitor-badge.glitch.me/badge?page_id=vikas-deshpande.vikas-deshpande.github.io/README.md&left_color=green&right_color=red)
+
 ## Welcome to my site
 
 Hi there, I’m @vikas-deshpande.
