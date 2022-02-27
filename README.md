@@ -1,6 +1,19 @@
-- 👋 Hi, I’m @vikas-deshpande
-- 👀 My tech interests include coding, system design, leadership.
-- My non-tech interests include cooking, travelling. Loving my new fatherhood phase.
+## Welcome to my site
+
+Hi there, I’m @vikas-deshpande.
+
+### Interests
+
+My interests include (in no specific order):
+* Tech:
+  * coding
+  * system design
+  * leadership
+
+* Non-tech:
+  * fatherhood
+  * cooking
+  * travelling
 
 <!---
 vikas-deshpande/vikas-deshpande is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
