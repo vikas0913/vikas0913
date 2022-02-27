@@ -7,7 +7,7 @@
 Hi there, I’m @vikas-deshpande.
 
 ### Contact
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/videshpande/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/-Linkedin-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/videshpande/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/-Linkedin-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:mailto@vikas0913@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white"/></a>
 
 ### Interests
