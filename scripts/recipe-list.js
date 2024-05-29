@@ -1,4 +1,4 @@
-fetch('recipe-list.json')
+fetch('../recipes/recipe-list.json')
   .then(response => response.json())
   .then(filenames => {
     const recipeList = document.getElementById('recipe-list');
