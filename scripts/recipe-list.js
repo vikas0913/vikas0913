@@ -4,7 +4,7 @@ fetch('../recipes/recipe-list.json')
     const recipeList = document.getElementById('recipe-list');
 
     filenames.forEach(filename => {
-      fetch(`../recipes/${filename}`) // Construct path to each recipe file
+      fetch(`/recipes/${filename}`) // Construct path to each recipe file
         .then(response => response.json())
         .then(recipeData => {
           // Access recipe data from the parsed object (recipeData)
